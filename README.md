@@ -5,6 +5,8 @@ This analysis was performed to investigate a potential bike-sharing start up dep
 ## Results
 The results below contain a detailed investigation on ridership through New York City. The information covers preferred ride times throughout the day, gender-distinguished ridership, ride counts for subscribers vs customers, trip durations, and other summaries.
 
+[Link to dashboard](https://public.tableau.com/app/profile/brayden.dodson/viz/bikesharing_analysis_16555290370270/CitibikeAnalysisStory?publish=yes)
+
 ### Daily Counts of Riders
 ![Daily_Counts_of_Riders](Analysis/daily_counts.png)
 
